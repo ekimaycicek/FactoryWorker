@@ -1,6 +1,7 @@
 public class SallaryRunner {
 
     public static void main(String[] args) {
+
         SalaryCalculation_Employee employee = new SalaryCalculation_Employee("Drake",20000,41,2020);
         System.out.println("employee.name = " + employee.name);
         System.out.println("employee.salary = " + employee.salary);
