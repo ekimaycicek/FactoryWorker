@@ -9,7 +9,6 @@ public class SallaryRunner {
         System.out.println("ödenecek bonus = " + employee.bonus());
         System.out.println("employee.raiseSalary() = " + employee.raiseSalary());
         System.out.println("employee.salary+ employee.raiseSalary() = " + ((employee.salary) + (employee.raiseSalary())));
-
         System.out.println("employee.toString() = " + employee.toString());
     }
 
