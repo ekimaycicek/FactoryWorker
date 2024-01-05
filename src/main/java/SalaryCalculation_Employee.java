@@ -70,7 +70,6 @@ public class SalaryCalculation_Employee {
         return paymentOfBonus;
     }
 
-
     public double raiseSalary(){
         int timeOfYear=2021;
         int sumOfYear=timeOfYear-year;
