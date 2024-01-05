@@ -74,7 +74,6 @@ public class SalaryCalculation_Employee {
 
 
 
-
     public double raiseSalary(){
         int timeOfYear=2021;
         int sumOfYear=timeOfYear-year;
